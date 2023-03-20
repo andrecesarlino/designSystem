@@ -7,6 +7,8 @@
     "dev" : "turbo run dev --parallel",
     "build": "turbo run build"
   },
+
+  
   "devDependencies": {
     "@ignite-ui/eslint-config": "file:packages/eslint-config",
     "turbo": "^1.5.5"
