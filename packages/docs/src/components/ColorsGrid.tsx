@@ -1,4 +1,4 @@
-import { colors } from '@ignite-ui/tokens'
+import { colors } from '@acldesignsystem/tokens'
 
 import { getContrast } from 'polished'
 
