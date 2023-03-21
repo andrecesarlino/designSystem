@@ -1,0 +1,2 @@
+import{A as t}from"./index.17053ffb.js";import"./index.efdfbcdc.js";import"./iframe.0d0c07a7.js";import"./index.edf011bd.js";import"./jsx-runtime.28ffb244.js";const c={title:"Data Display/Avatar",component:t,args:{src:"https://github.com/andrecesarlino.png",alt:"Andre Lino"},argTypes:{src:{control:{type:"text"}}}},e={},n={args:{src:void 0}},p=["Primary","WithFallback"];export{e as Primary,n as WithFallback,p as __namedExportsOrder,c as default};
+//# sourceMappingURL=Avatar.stories.ce4eb55b.js.map
